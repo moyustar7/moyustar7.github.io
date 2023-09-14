@@ -67,7 +67,7 @@ class ProgressiveLoad {
   };
   
   const config = {
-    smallSrc: 'https://img01.anheyu.com/useruploads/181/2023/09/12/650073c2d63b7.jpg', // 小图链接 尽可能配置小于100k的图片
+    smallSrc: 'https://img01.anheyu.com/useruploads/181/2023/09/14/6502eac8e58a9.jpg', // 小图链接 尽可能配置小于100k的图片
     largeSrc: 'https://img01.anheyu.com/useruploads/181/2023/09/12/650073c2d63b7.jpg', // 大图链接 最终显示的图片
     mobileSmallSrc: 'https://imgapi.kouseki.cn/random?sort=mp', // 手机端小图链接 尽可能配置小于100k的图片
     mobileLargeSrc: 'https://imgapi.kouseki.cn/random?sort=mp', // 手机端大图链接 最终显示的图片
